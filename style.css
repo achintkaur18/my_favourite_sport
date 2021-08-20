@@ -10,7 +10,7 @@ body {
   font-family: "Exo 2", sans-serif;
   width: 100vw;
   height: 100vh;
-  background: url("https://media.istockphoto.com/photos/various-sport-equipments-on-grass-picture-id949190756?k=6&m=949190756&s=612x612&w=0&h=dNek5l5xc68G0gCZv-fe0vHP8kjDpAYFrRnSPh8iLyc=");
+  background: url("https://i.pinimg.com/736x/8b/74/c8/8b74c81223959fe064de7602fbca6ff7.jpg");
   background-size: 100% 100%;
 }
 
@@ -27,11 +27,12 @@ body {
 }
 
 form {
-  position: absolute;
+  position: auto; 
   top: 15%;
   left: 65%;
   background-color: white;
   width: 450px;
+  margin: 0 auto; 
   padding: 0px 75px;
   border-radius: 5px;
 }
